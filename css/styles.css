@@ -11,6 +11,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 .span_stud{
   color: #2e2f42;
@@ -19,9 +20,7 @@ body {
   font-weight: 500 ;  
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
-  color: #434455;
- 
+  color: #2e2f42;
 }
 .href_studio:hover {
   color: #404bbf
@@ -29,6 +28,9 @@ body {
 .href_studio:focus {
   color: #404bbf;
 }
-.address[class^="class-"] {
+.address {
   font-style: normal
+}
+.ull {
+
 }
