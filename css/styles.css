@@ -16,7 +16,8 @@ body {
 .span_stud {
   color: #2e2f42;
 }
-.href_studio {
+
+.lii {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -26,15 +27,16 @@ body {
 .address {
   font-style: normal;
 }
-.lii {
+.href_studio {
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 
 }
-.lii:hover {
+.href_studio:hover {
   color: #404bbf;
 }
-.lii:focus {
+.href_studio:focus {
   color: #404bbf;
 }
