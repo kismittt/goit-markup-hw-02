@@ -22,17 +22,19 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.href_studio:hover {
-  color: #404bbf;
-}
-.href_studio:focus {
-  color: #404bbf;
-}
+
 .address {
   font-style: normal;
 }
-/* .ull {
-}
 .lii {
-  color: #2e2f42;
-} */
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+
+}
+.lii:hover {
+  color: #404bbf;
+}
+.lii:focus {
+  color: #404bbf;
+}
