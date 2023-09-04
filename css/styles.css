@@ -28,6 +28,6 @@ body {
 .href_studio:focus {
   color: #404bbf;
 }
-.address {
+.address[class^="class-"] {
   font-style: normal
 }
