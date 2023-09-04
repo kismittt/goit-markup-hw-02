@@ -1,15 +1,12 @@
-body {
+/* body {
     font-family: 'Roboto', sans-serif;
     font-family: 'Raleway', sans-serif;
     
-}
-/* Для текста, который должен использовать шрифт Roboto */
+} */
 body {
     font-family: 'Roboto', sans-serif;
   }
-  
-  /* Для текста, который должен использовать шрифт Raleway */
-  /* Например, если вы хотите применить Raleway к заголовкам */
+
   h1, h2, h3 {
     font-family: 'Raleway', sans-serif;
   }
