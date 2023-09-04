@@ -22,9 +22,9 @@ body {
   color : #2e2f42;
 
 }
-.href_studio :hover {
+.href_studio:hover {
   color: #404bbf
 }
-.href_studio :focus {
+.href_studio:focus {
   color: #404bbf;
 }
