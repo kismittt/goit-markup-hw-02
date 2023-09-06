@@ -17,7 +17,7 @@ body {
   color: #2e2f42;
 }
 
-.href_studio {
+.href {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -28,17 +28,17 @@ body {
   font-style: normal;
 }
 
-.href_studio:hover {
+.href:hover {
   color: #404bbf;
 }
-.href_studio:focus {
+.href:focus {
   color: #404bbf;
 }
-.section1 {
+.section {
   background-color: #2e2f42;
 
 }
-.h1-section {
+.h-section {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -47,7 +47,7 @@ body {
 
 }
 
-.button1 {
+.button {
   background-color: #4D5AE5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -57,10 +57,10 @@ body {
   color: #ffffff ;
   cursor: pointer;
 }
-.button1:hover {
+.button:hover {
   background-color: #404BBF
 }
-.button1:focus {
+.button:focus {
   background-color: #404BBF
 }
 .address_link {
